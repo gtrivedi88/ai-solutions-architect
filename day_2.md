@@ -1,5 +1,3 @@
-# AI Solution Architect: Learning Log & Pressure Test
-
 ## Daily Progress Log
 
 - **Date:** Monday, April 27, 2026  
@@ -119,7 +117,6 @@ az storage account check-name --name <name>
 ```bash
 az account set --subscription "Your-Subscription-ID"
 ```
-**End**
 ---
 
-## End of Log
+**End**
